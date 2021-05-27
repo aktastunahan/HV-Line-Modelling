@@ -1,0 +1,5 @@
+Expected output for example 1 (without the bonus part):
+[0.0077,0.0965,1.1598e-05,-1,-1]
+
+Expected output for example 2 (without the bonus part):
+[0.0078,0.1637,6.8170e-06,-1,-1]
